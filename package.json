@@ -1,0 +1,23 @@
+{
+  "name": "ncportfolio",
+  "version": "1.0.0",
+  "description": "professional portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbmc1991/NCportfolio.git"
+  },
+  "author": "Norma Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbmc1991/NCportfolio/issues"
+  },
+  "homepage": "https://github.com/nbmc1991/NCportfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
