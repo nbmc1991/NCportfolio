@@ -3,9 +3,6 @@
 
   ![License](https://img.shields.io/badge/License-MIT license%202.0-blue.svg)
 
-   ![](https://github.com/nbmc1991/NCportfolio/blob/main/public/images/Screenshot%202020-11-18%20151909.png)
-   ![](https://github.com/nbmc1991/NCportfolio/blob/main/public/images/Screenshot%202020-11-18%20152032.png)
-
 
 ## Table of Contents:
 
@@ -39,6 +36,10 @@ Norma's professional portfolio.
 ## Usage 
 
 Check out my skills :)
+
+   ![](https://github.com/nbmc1991/NCportfolio/blob/main/public/images/Screenshot%202020-11-18%20151909.png)
+   ![](https://github.com/nbmc1991/NCportfolio/blob/main/public/images/Screenshot%202020-11-18%20152032.png)
+
 
 ## Contributing
 ## Test 
