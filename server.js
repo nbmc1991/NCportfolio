@@ -13,10 +13,10 @@ app.set('view engine', 'handlebars');
 
 app.use(routes);
 
-app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+app.use(express.static(path.join(__dirname, 'public')));
 
 
 app.listen(PORT, () => console.log(`server listening on http://localhost:${PORT}`));
